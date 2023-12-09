@@ -1,0 +1,7 @@
+venv
+dist
+build
+.coverage
+__pycache__
+.venv
+.pytest_cache
